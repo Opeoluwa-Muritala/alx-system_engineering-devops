@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
+#!/bin/bash
 pwd - Prints the absolute directory
