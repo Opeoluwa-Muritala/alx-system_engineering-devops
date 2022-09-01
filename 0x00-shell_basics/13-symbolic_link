@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -rua*.html ../
+in -s /bin/ls ls
